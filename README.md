@@ -1,0 +1,1 @@
+This code snippet creates three file resources with paths `/tmp/bacon`, `/tmp/eggs`, and `/tmp/sausage`. The content of each file is set to indicate that the corresponding type is delicious.
