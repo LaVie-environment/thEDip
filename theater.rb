@@ -20,7 +20,7 @@ end
 # Case Statement
 
 case
-when (age <= 12)
+when (age = 12)
   cost = 9
 when (age >= 65)
   cost = 12
