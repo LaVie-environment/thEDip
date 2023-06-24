@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 # Flag for debugging (change to false when finished debugging)
-DEBUG_MODULE_1 = false
+DEBUG_MODULE_1 = true
 
 puts "Enter the customer's age: "
 
